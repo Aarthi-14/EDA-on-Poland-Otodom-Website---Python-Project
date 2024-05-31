@@ -9,3 +9,4 @@ The Objective of this Project is to analyse the real estate market trends in Pol
 * Average RentalPrice based on Surface Area
 * Contribution of Business & Private Advertisements
 * Top 3 Luxurious Apartments in Capital city
+
