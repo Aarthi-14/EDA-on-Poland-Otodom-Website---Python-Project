@@ -10,3 +10,27 @@ The Objective of this Project is to analyse the real estate market trends in Pol
 * Contribution of Business & Private Advertisements
 * Top 3 Luxurious Apartments in Capital city
 
+## Step-by-Step Methodology:
+
+1. Data Collection:
+  Downloaded CSV files from Otodom.pl website.
+
+2.Snowflake Setup:
+  Created a Snowflake account and set up the environment.
+  Established a connection to Snowflake using the provided credentials.
+
+3. Data Staging and Loading:
+  Created a stage in Snowflake and uploaded CSV files to the stage.
+  Defined table structures and loaded data from the stage into the tables.
+
+4. Querying with SnowSQL:
+  Performed initial data exploration and querying using SnowSQL.
+
+5. Python Environment Setup:
+  Installed necessary Python libraries for data Preprocessing, data analysis and visualization.
+  Connected to Snowflake from Python using SQLAlchemy.
+
+6. Data Analysis and Visualization:
+  Executed SQL queries from Python and retrieved data into pandas DataFrames.
+  Created various visualizations using Matplotlib to uncover insights.
+
