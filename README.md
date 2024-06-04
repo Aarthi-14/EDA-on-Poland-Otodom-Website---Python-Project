@@ -12,7 +12,7 @@ The Objective of this Project is to analyse the real estate market trends in Pol
 
 ## Step-by-Step Methodology:
 
-1. Data Collection:
+1. Data Collection: 
   Downloaded CSV files from Otodom.pl website.
 
 2.Snowflake Setup:
