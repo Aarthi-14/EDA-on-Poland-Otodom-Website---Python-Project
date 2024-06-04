@@ -15,7 +15,7 @@ The Objective of this Project is to analyse the real estate market trends in Pol
 1. Data Collection: 
   Downloaded CSV files from Otodom.pl website.
 
-2.Snowflake Setup:
+2. Snowflake Setup:
   Created a Snowflake account and set up the environment.
   Established a connection to Snowflake using the provided credentials.
 
