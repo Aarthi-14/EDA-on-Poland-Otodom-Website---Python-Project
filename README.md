@@ -34,6 +34,6 @@ The Objective of this Project is to analyse the real estate market trends in Pol
   Executed SQL queries from Python and retrieved data into pandas DataFrames.
   Created various visualizations using Matplotlib to uncover insights.
 
-Conclusion:
+## Conclusion:
 The data suggests that in Polish cities, apartment prices tend to increase with larger surface areas, with Warszawa having the highest average prices for both rent and sale. Additionally, a significant proportion of ads are posted by businesses rather than private individuals, and Mokotów, Śródmieście, and Wilanów are the top suburbs for luxurious apartments with prices exceeding 2 million PLN in Warszawa.
 
