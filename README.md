@@ -1,3 +1,7 @@
+## Exploratory Data Analysis:
+Click the link for the Detailed Analysis. 
+[Analysis](https://nbviewer.org/github/Aarthi-14/EDA-on-Poland-Otodom-Website---Python-Project/blob/main/Poland_Otodom_project.ipynb)
+
 # Project: Analyzing Real Estate Trends on otodom.pl
 Otodom.pl is the valuable resource for analyzing real estate market trends in Poland. 
 This site helps people to look for rental Apartments/Apartments for Sale, its Prices & details in Poland.
@@ -34,9 +38,6 @@ The Objective of this Project is to analyse the real estate market trends in Pol
   Executed SQL queries from Python and retrieved data into pandas DataFrames.
   Created various visualizations using Matplotlib to uncover insights.
 
-## Exploratory Data Analysis:
-Click the link for the Detailed Analysis. 
-[Analysis](https://nbviewer.org/github/Aarthi-14/EDA-on-Poland-Otodom-Website---Python-Project/blob/main/Poland_Otodom_project.ipynb)
 
 ## Conclusion:
 The data suggests that in Polish cities, apartment prices tend to increase with larger surface areas, with Warszawa having the highest average prices for both rent and sale. Additionally, a significant proportion of ads are posted by businesses rather than private individuals, and Mokotów, Śródmieście, and Wilanów are the top suburbs for luxurious apartments with prices exceeding 2 million PLN in Warszawa.
